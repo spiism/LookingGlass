@@ -1,0 +1,37 @@
+C:\Temp\LookingGlass\LookingGlass\bin\Debug\LookingGlass.exe.config
+C:\Temp\LookingGlass\LookingGlass\bin\Debug\LookingGlass.exe
+C:\Temp\LookingGlass\LookingGlass\bin\Debug\LookingGlass.pdb
+C:\Temp\LookingGlass\LookingGlass\obj\Debug\LookingGlass.csprojAssemblyReference.cache
+C:\Temp\LookingGlass\LookingGlass\obj\Debug\LookingGlass.MainForm.resources
+C:\Temp\LookingGlass\LookingGlass\obj\Debug\LookingGlass.Properties.Resources.resources
+C:\Temp\LookingGlass\LookingGlass\obj\Debug\LookingGlass.csproj.GenerateResource.cache
+C:\Temp\LookingGlass\LookingGlass\obj\Debug\LookingGlass.csproj.CoreCompileInputs.cache
+C:\Temp\LookingGlass\LookingGlass\obj\Debug\LookingGlass.exe
+C:\Temp\LookingGlass\LookingGlass\obj\Debug\LookingGlass.pdb
+C:\Temp\LookingGlass\LookingGlass\obj\Debug\LookingGlass.DataModule.resources
+C:\Temp\LookingGlass\LookingGlass\obj\Debug\LookingGlass.EmployerForm.resources
+C:\Temp\LookingGlass\LookingGlass\obj\Debug\LookingGlass.CandidateForm.resources
+C:\Temp\LookingGlass\LookingGlass\obj\Debug\LookingGlass.CandidateSkillForm.resources
+C:\Temp\LookingGlass\LookingGlass\obj\Debug\LookingGlass.ApplicationForm.resources
+C:\Temp\LookingGlass\LookingGlass\obj\Debug\LookingGlass.Candidates.resources
+C:\Temp\LookingGlass\LookingGlass\obj\Debug\LookingGlass.Vacancies.resources
+C:\Temp\LookingGlass\LookingGlass\obj\Debug\LookingGlass.VacancySkillForm.resources
+C:\Temp\LookingGlass\LookingGlass\obj\Debug\LookingGlass.VacancyForm.resources
+F:\unitec\sem 1 - 2019\ISCG6421 GUI Programming\assignment\Temp\LookingGlass\LookingGlass\bin\Debug\LookingGlass.exe.config
+F:\unitec\sem 1 - 2019\ISCG6421 GUI Programming\assignment\Temp\LookingGlass\LookingGlass\bin\Debug\LookingGlass.exe
+F:\unitec\sem 1 - 2019\ISCG6421 GUI Programming\assignment\Temp\LookingGlass\LookingGlass\bin\Debug\LookingGlass.pdb
+F:\unitec\sem 1 - 2019\ISCG6421 GUI Programming\assignment\Temp\LookingGlass\LookingGlass\obj\Debug\LookingGlass.DataModule.resources
+F:\unitec\sem 1 - 2019\ISCG6421 GUI Programming\assignment\Temp\LookingGlass\LookingGlass\obj\Debug\LookingGlass.EmployerForm.resources
+F:\unitec\sem 1 - 2019\ISCG6421 GUI Programming\assignment\Temp\LookingGlass\LookingGlass\obj\Debug\LookingGlass.CandidateForm.resources
+F:\unitec\sem 1 - 2019\ISCG6421 GUI Programming\assignment\Temp\LookingGlass\LookingGlass\obj\Debug\LookingGlass.CandidateSkillForm.resources
+F:\unitec\sem 1 - 2019\ISCG6421 GUI Programming\assignment\Temp\LookingGlass\LookingGlass\obj\Debug\LookingGlass.ApplicationForm.resources
+F:\unitec\sem 1 - 2019\ISCG6421 GUI Programming\assignment\Temp\LookingGlass\LookingGlass\obj\Debug\LookingGlass.Candidates.resources
+F:\unitec\sem 1 - 2019\ISCG6421 GUI Programming\assignment\Temp\LookingGlass\LookingGlass\obj\Debug\LookingGlass.Vacancies.resources
+F:\unitec\sem 1 - 2019\ISCG6421 GUI Programming\assignment\Temp\LookingGlass\LookingGlass\obj\Debug\LookingGlass.VacancySkillForm.resources
+F:\unitec\sem 1 - 2019\ISCG6421 GUI Programming\assignment\Temp\LookingGlass\LookingGlass\obj\Debug\LookingGlass.VacancyForm.resources
+F:\unitec\sem 1 - 2019\ISCG6421 GUI Programming\assignment\Temp\LookingGlass\LookingGlass\obj\Debug\LookingGlass.MainForm.resources
+F:\unitec\sem 1 - 2019\ISCG6421 GUI Programming\assignment\Temp\LookingGlass\LookingGlass\obj\Debug\LookingGlass.Properties.Resources.resources
+F:\unitec\sem 1 - 2019\ISCG6421 GUI Programming\assignment\Temp\LookingGlass\LookingGlass\obj\Debug\LookingGlass.csproj.GenerateResource.cache
+F:\unitec\sem 1 - 2019\ISCG6421 GUI Programming\assignment\Temp\LookingGlass\LookingGlass\obj\Debug\LookingGlass.csproj.CoreCompileInputs.cache
+F:\unitec\sem 1 - 2019\ISCG6421 GUI Programming\assignment\Temp\LookingGlass\LookingGlass\obj\Debug\LookingGlass.exe
+F:\unitec\sem 1 - 2019\ISCG6421 GUI Programming\assignment\Temp\LookingGlass\LookingGlass\obj\Debug\LookingGlass.pdb
